@@ -1,0 +1,7 @@
+.cover {
+  width: 70px;
+}
+
+.table > tbody > * {
+  vertical-align: middle;
+}
